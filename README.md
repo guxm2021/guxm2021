@@ -16,6 +16,8 @@ Visit my **[personal website](https://guxm2021.github.io)**.
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guxm2021&repo=github-readme-stats)](https://github.com/guxm2021/MM_ALT&theme=gruvbox)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guxm2021&layout=compact&theme=gruvbox&hide_border=true)
 
 ![Xiangming's github stats](https://github-readme-stats.vercel.app/api?username=guxm2021&show_icons=true&hide_border=true&theme=gruvbox)
