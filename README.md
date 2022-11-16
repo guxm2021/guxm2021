@@ -15,8 +15,13 @@ Visit my **[personal website](https://guxm2021.github.io)**.
 - 📫 How to reach me: **[Linkedin](https://www.linkedin.com/in/xiangming-gu/), [Twitter](https://twitter.com/gu_xiangming), [Instagram](https://instagram.com/xiangminggu)**
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guxm2021&repo=ALT_SpeechBrain&theme=gruvbox)](https://github.com/guxm2021/ALT_SpeechBrain)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guxm2021&repo=github-readme-stats)](https://github.com/guxm2021/MM_ALT&theme=gruvbox)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guxm2021&repo=MM_ALT&theme=gruvbox)](https://github.com/guxm2021/MM_ALT)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guxm2021&repo=3D-HPE-PAA&theme=gruvbox)](https://github.com/guxm2021/3D-HPE-PAA)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guxm2021&repo=guxm2021&theme=gruvbox)](https://github.com/guxm2021/guxm2021)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guxm2021&layout=compact&theme=gruvbox&hide_border=true)
 
