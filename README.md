@@ -19,8 +19,6 @@ Visit my **[personal website](https://guxm2021.github.io)**.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guxm2021&repo=3D-HPE-PAA&theme=rose_pine)](https://github.com/guxm2021/3D-HPE-PAA)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guxm2021&repo=guxm2021.github.io&theme=rose_pine)](https://github.com/guxm2021/guxm2021.github.io) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guxm2021&layout=compact&theme=gruvbox&hide_border=true)
-
 ![Xiangming's github stats](https://github-readme-stats.vercel.app/api?username=guxm2021&show_icons=true&hide_border=true&theme=gruvbox)
 
 ![Snake animation](https://github.com/guxm2021/guxm2021/blob/output/github-contribution-grid-snake.svg)
