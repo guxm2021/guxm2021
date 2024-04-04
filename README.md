@@ -5,7 +5,5 @@ I am **Xiangming Gu**. You can also call me **Brian**. I am currently a third-ye
 My research interests include two directions: (i) fundamental research for generative models and (multimodal) large language models; (ii) application of machine learning, e.g. multimodal learning, multi-distribution learning (domain adaptation), and trustworthy machine learning (fairness, memorization), to singing/speech techniques.
 
 Visit my **[personal website](https://guxm2021.github.io)**.
-<!-- **guxm2021/guxm2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-![Xiangming's github stats](https://github-readme-stats.vercel.app/api?username=guxm2021&show_icons=true&theme=radical)
-
+[![Xiangming's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=guxm2021&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)
