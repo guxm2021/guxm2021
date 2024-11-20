@@ -2,7 +2,7 @@
 
 I am **Xiangming Gu**. You can also call me **Brian**. I am currently a fourth-year Ph.D. candidate from **[NUS Sound and Music Computing Lab](https://smcnus.github.io)**, where I am supervised by Prof. **[Ye Wang](https://www.comp.nus.edu.sg/cs/people/wangye/)**. I am affilated to **[Integrative Sciences and Engineering Programme](https://isep.nus.edu.sg)** and **[School of Computing](https://www.comp.nus.edu.sg)** at **[National University of Singapore](https://www.nus.edu.sg)**. Before that, I obtained my B.E. degree of Electronic Engineering and B.S. degree of Finance at **[Tsinghua University](https://www.tsinghua.edu.cn/en/)**.
 
-My main research topics include: (i) fundamental models; (ii) AI safety; (iii) speech and singing.
+My main research topics include: (i) foundation models; (ii) AI safety; (iii) speech and singing.
 
 Visit my **[personal website](https://guxm2021.github.io)**.
 
