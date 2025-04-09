@@ -2,7 +2,7 @@
 
 I am **Xiangming Gu**. You can also call me **Brian**. I am currently a fourth-year Ph.D. candidate from **[NUS Sound and Music Computing Lab](https://smcnus.github.io)**, where I am supervised by Prof. **[Ye Wang](https://www.comp.nus.edu.sg/cs/people/wangye/)**. I am affilated to **[Integrative Sciences and Engineering Programme](https://isep.nus.edu.sg)** and **[School of Computing](https://www.comp.nus.edu.sg)** at **[National University of Singapore](https://www.nus.edu.sg)**. Before that, I obtained my B.E. degree of Electronic Engineering and B.S. degree of Finance at **[Tsinghua University](https://www.tsinghua.edu.cn/en/)**.
 
-My main research topics include: (i) generative models; (ii) trustworthy AI; (iii) speech and singing.
+Currently, my main research focus is understanding and advancing generative models as well as the safety deployment of generative models. During my earlier Ph.D. journey, I have done some work on bayesian deep learning, and application of machine learning to singing/speech domain.
 
 Visit my **[personal website](https://guxm2021.github.io)**.
 
